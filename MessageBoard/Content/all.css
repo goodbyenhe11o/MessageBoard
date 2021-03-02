@@ -1,0 +1,23 @@
+﻿body {
+    margin-top: 0px;
+    background-image: url(../images/bg1.jpg);
+    behavior: url("css/csshover.htc");
+    height: 100%;
+    background-repeat: repeat-x;
+    background-color: #f3f3f3;
+}
+}
+
+#form {
+    margin: 0 0 0 25%;
+}
+
+
+.line {
+    border-left: 1px solid grey;
+    z-index: 1;
+    height: 650px;
+    margin-top: 3.2%;
+    margin-left: 4.5%;
+    position: fixed;
+}
